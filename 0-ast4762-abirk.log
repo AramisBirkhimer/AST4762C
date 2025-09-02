@@ -82,6 +82,26 @@ managed to make it to problem 5, I have to leave for now and will continue later
 
 *****OUT: 4:21 PM Monday 9/1/2025
 
+*****IN: 9:16 PM 9/1/2025
+continuing work on hw2_abirk. I am instaling mobaxterm on my home pc to finish the final problems of the hw. I finished the installation, copying hw files into stokes now. 
+
+To log into stokes I entered the SSH name, then my username after connecting to the ucf vpn. 
+
+Made a hw folder in stokes using the create directory button. 
+
+Then I dragged my files from my folder onto my computer into mobaxterm.
+
+I ran the hw files in the anaconda module and they worked. All plots displayed and saved to the hw folder. 
+
+I had to make a new github repository because moved all my files to a new folder. I then committed and pushed to github using  the "commit to main" box. Then I took a screenshot and copied the file to stokes.
+
+To submit I will use the command: tar -czvf hw2_abirk.tar.gz ~/hw2_abirk after I drag the log file into the stokes hw2_abirk folder. Then I will download the file onto my computer, compress the folder and submit to webcourses. 
+
+*****OUT: 9:49 PM 9/1/2025
+
+
+
+
 
 
 
