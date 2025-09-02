@@ -1,0 +1,6 @@
+homework directory:
+cd /mnt/c/users/arami/onedrive/classwork-ucf/AST4762C/Homework
+
+tar gzip command (will find file name in directory and compress) :
+
+tar zcf <file name>.tar.gz <filename>
